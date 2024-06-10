@@ -20,7 +20,7 @@ The project will involve:
 
 ## Tools and Technologies
 - **Programming Language:** Python
-- **Data Visualization:** Matplotlib, Seaborn
+- **Data Visualization:** Matplotlib, Seaborn, Tableau
 - **Data Processing:** Pandas
 - **Notebook Environment:** Google Colab
 
